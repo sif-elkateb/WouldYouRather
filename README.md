@@ -1,7 +1,13 @@
 # Would You Rather Project
 
 Would You Rather Project is part of Udacity React Nano Degree and it enables users to answer,view or create would you rather polls.
-The Application makes use of React and also Redux as a state management framework which improves predictability of the application state and when used it becomes the signle soruce of truth so the only way to change state is to dispatch actions to the store reducers which then return the new state!
+
+The Application makes use of React and also Redux as a state management framework which improves predictability of the application state and when used it becomes the signle 
+
+soruce of truth so the only way to change state is to dispatch actions to the store reducers which then return the new state!
+
+For live demo [click here](https://udacitywouldyouratherproject2021.netlify.app/)
+
 
 ## Instructions  :memo:
 
