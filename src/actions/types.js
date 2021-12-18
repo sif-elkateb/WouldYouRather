@@ -1,0 +1,9 @@
+export const  FETCH_DATA='FETCH_DATA';
+export const  LOGIN_USER='LOGIN_USER';
+export const  LOGOUT_USER='LOGOUT_USER';
+export const  ADD_QUESTION='ADD_QUESTION';
+export const  SET_USER_QUESTIONS='SET_USER_QUESTIONS';
+export const  ANSWER_QUESTION='ANSWER_QUESTION';
+
+
+
